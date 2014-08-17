@@ -1,7 +1,7 @@
 narsil
 ======
 
-A pure PHP implementation of client side sharding for MySQL, MongoDB and Redis. 
+A PHP implementation of client side sharding for MySQL, MongoDB and Redis. 
 
 The base client sharding class can be found in clients\sclientsharding.php, which relies on the extension of the client skelton class (found in clients\sclientskeleton.php) for carrying out read/write/delete operations
 
